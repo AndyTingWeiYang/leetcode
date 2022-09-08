@@ -1,7 +1,5 @@
 package leetcode.problems;
 
-import java.util.Arrays;
-
 public class TwoSum_1 {
 	// int[] nums = {1,2,3,4,5} target 9, should return index [3,4]
 	int result [] = new int[2];

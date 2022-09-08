@@ -1,6 +1,5 @@
 package leetcode.problems;
 
-import java.math.BigInteger;
 import java.util.Arrays;
 
 public class PlusOne_66 {
